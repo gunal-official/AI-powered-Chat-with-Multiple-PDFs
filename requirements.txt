@@ -1,0 +1,10 @@
+streamlit>=1.32.2
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-text-splitters
+python-dotenv
+faiss-cpu
+pypdf
+sentence-transformers

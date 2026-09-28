@@ -1,0 +1,29 @@
+# Environments
+langchain-env/
+venv/
+.venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Temp / uploads
+temp*.pdf
+uploads/
+.file_cache/
+
+# Vector stores
+faiss_index/
+*.faiss
+*.pkl
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
